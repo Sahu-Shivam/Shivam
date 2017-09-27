@@ -1,6 +1,6 @@
 import cv2
-from PIL import Image  
-import os  
+from PIL import Image
+import os
 import numpy as np
 
 filename = '10000616.jpg'  
